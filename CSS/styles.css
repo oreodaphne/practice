@@ -30,8 +30,6 @@ a:hover{
   background-color: #66BFBF;
   padding-top: 50px;
   padding-bottom: 60px;
-
-
 }
 
 h1 {
@@ -89,13 +87,11 @@ h3 {
 }
 
 hr{
-
   border-style: none;
   border-top-style: dotted;
   border-color: grey;
   border-width: 5px;
   width: 5%;
-
 }
 
 .btn {
