@@ -6,6 +6,13 @@ body {
 
 a {
   color: #11999E;
+  margin: 20px 20px;
+}
+
+a:hover{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+
 }
 
 .top {
@@ -43,16 +50,6 @@ h2 {
 
 h3 {
   color: #11999E;
-}
-
-a{
-  margin: 20px 20px;
-}
-
-a:hover{
-  color: white;
-  font-family: 'Montserrat', sans-serif;
-
 }
 
 .top-cloud {
